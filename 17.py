@@ -1,6 +1,6 @@
-n= int input("")
+n= int input(" ")
 a=list(map(int,str(n))
-b=list (map(lambda x:x**3,a0)
+b=list (map(lambda x:x**3,a)
 if/sum(b)==n):
 print("yes")
 else:
