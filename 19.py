@@ -1,4 +1,4 @@
 num = int(input("")
-n-=1
+n = 5
 while num>0:
 n=n*num
